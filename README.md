@@ -1,2 +1,3 @@
 # ML_Deep_Learning
-Machine Learning courses done for university
+
+This repository will collect Machine Learning projects done for university.
